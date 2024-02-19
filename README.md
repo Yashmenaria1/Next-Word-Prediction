@@ -7,3 +7,7 @@ OUTPUT:
 
 
 ![image](https://github.com/Yashmenaria1/Next-Word-Prediction/assets/107399779/b41ceec0-7d28-43aa-a9c3-d0e41c1c3b00)
+
+
+
+"I have uploaded two Colab files here. In the first one, I used an epoch value of 10, and in the second one, I used an epoch value of 20."
